@@ -1,0 +1,2 @@
+"DS_DEACTIVATE_REQ";
+"Deactivate the Dragon Soul before trying.";

@@ -1,0 +1,1 @@
+TOOLTIP_DS_SET	DSS Set Effect	SNA
