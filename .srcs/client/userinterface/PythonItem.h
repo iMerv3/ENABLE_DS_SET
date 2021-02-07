@@ -1,4 +1,13 @@
 // Search:
+#include "../EterGrnLib/ThingInstance.h"
+// Add after:
+#ifdef ENABLE_DS_SET
+#include "Packet.h"
+#endif
+
+
+
+// Search:
 		typedef std::map<DWORD, TGroundItemInstance *>	TGroundItemInstanceMap;
 // Add after:
 #ifdef ENABLE_DS_SET
